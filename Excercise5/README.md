@@ -1,14 +1,17 @@
 To install this environment:
+	
 	cd balance-bot
-    	pip install -e .
+	pip install -e .
 
 
 To train robot for balancing:
-    	python3 balancebot_task.py
+    	
+	python3 balancebot_task.py
 
 
 To launch evolved robot(best_fit folder):
-    	python3 ../../bin/es.py -f balance_bot.ini -t bestgS1.npy
+    	
+	python3 ../../bin/es.py -f balance_bot.ini -t bestgS1.npy
 
 ---
 
