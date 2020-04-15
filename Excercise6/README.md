@@ -12,10 +12,13 @@ target but doesn't stop.
 robot can't stop at the goal becuase it doesn't have feedback that why it can't estimate state or evolution stategy. 
 
 >* Robot reach the goal and stop 
+
 ![alt text](img/s1.gif)
 
 >* Robot reach the goal and moving around (seed 2) 
+
 ![alt text](img/s2.gif)
 
 >* Robot doesn't stop when reach the goal (seed 11) 
+
 ![alt text](img/s11.gif)
